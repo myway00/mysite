@@ -1,6 +1,3 @@
-### [mysite01](https://github.com/myway00/mysite.git/mysite01)
-- Servlet Programming 개념  
-
 ### [mysite02](https://github.com/myway00/mysite.git/mysite02)
 
 - 게시판 만들기
