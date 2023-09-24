@@ -1,0 +1,4 @@
+- 서블릿 클래스는 JSP 페이지와 달리 설치뿐만 아니라 등록을 하는 과정 필요 
+- 서블릿 클래스를 등록하는 곳의 이름을 Web application deployment descriptor라고 하는데 (줄여서 DD-Deployment Descriptor) 이 역할을 하는 것이 바로 web.xml
+- web.xml 파일은 웹 애플리케이션 디렉터리마다 딱 하나씩만 존재 
+- DD는 WAS 구동 시 /WEB-INF 디렉토리에 존재하는 web.xml을 읽어 웹 애플리케이션의 설정을 구성하기 위해 존재 

@@ -22,7 +22,7 @@ public class SiteService {
         return siteRepository.update(siteVo);
     }
 
-    public SiteVo getContents() {
+    public SiteVo getSite() {
         return siteRepository.find();
     }
 }
