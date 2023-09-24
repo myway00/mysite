@@ -11,7 +11,7 @@ public class MainController {
     @Autowired
     private SiteService siteService;
 
-    @RequestMapping("/")
+    @RequestMapping("")
     public String index() {
         return "main/index";
     }

@@ -62,7 +62,7 @@ public class AuthInterceptor implements HandlerInterceptor {
         }
 
         // 현재 유저의 권한
-        String authUserRole = authUser.getRole()
+        String authUserRole = authUser.getRole();
         if ("ADMIN".equals(authUserRole) == false) {
             response.sendRedirect(request.getContextPath());
             return false;

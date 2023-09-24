@@ -15,6 +15,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mysite01" target="11" />
+      <module name="mysite03 (1)" target="17" />
+      <module name="mysite03 (2)" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
