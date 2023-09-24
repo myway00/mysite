@@ -1,6 +1,6 @@
 ### [self-study-docs](https://github.com/myway00/mysite.git/self-study-docs)
-- [servlet-study-docs](https://github.com/myway00/mysite.git/self-study-docs/servlet programming)
-- [spring-study-docs](https://github.com/myway00/mysite.git/self-study-docs/spring programming)
+- [servlet-study-docs](https://github.com/myway00/mysite.git/self-study-docs/servlet_programming)
+- [spring-study-docs](https://github.com/myway00/mysite.git/self-study-docs/spring_programming)
 
 
 ### [mysite02](https://github.com/myway00/mysite.git/mysite02)
